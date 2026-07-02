@@ -70,7 +70,3 @@ The residual shrinks roughly proportionally to the grid spacing, meaning it's pu
 pip install numpy pandas scipy matplotlib
 python fit_curve.py
 ```
-## Desmos Visualization
-
-https://www.desmos.com/calculator/fgk34ldotess
-
