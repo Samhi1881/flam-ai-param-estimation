@@ -31,7 +31,7 @@ given 1500 sampled `(x, y)` points on the curve for `6 < t < 60`, with:
 ```
 Domain: `6 ≤ t ≤ 60`
 
-**Desmos graph:** [https://www.desmos.com/calculator/fgk34ldotess](https://www.desmos.com/calculator/fgk34ldotess)
+**Desmos graph:** [https://www.desmos.com/calculator/fgk34ldote]
 
 ![Fitted curve vs data](fit_comparison.png)
 
@@ -69,5 +69,4 @@ The residual shrinks roughly proportionally to the grid spacing, meaning it's pu
 pip install numpy pandas scipy matplotlib
 python fit_curve.py
 ```
-
 

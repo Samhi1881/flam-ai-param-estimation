@@ -1,0 +1,19 @@
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/README.md b/README.md[m
+[1mindex f53b9de..8634832 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -31,7 +31,7 @@[m [mgiven 1500 sampled `(x, y)` points on the curve for `6 < t < 60`, with:[m
+ ```[m
+ Domain: `6 ≤ t ≤ 60`[m
+ [m
+[31m-**Desmos graph:** [add link after saving in Desmos][m
+[32m+[m[32m**Desmos graph:** [https://www.desmos.com/calculator/fgk34ldotess](https://www.desmos.com/calculator/fgk34ldotess)[m
+ [m
+ ![Fitted curve vs data](fit_comparison.png)[m
+ [m
+[36m@@ -69,3 +69,4 @@[m [mThe residual shrinks roughly proportionally to the grid spacing, meaning it's pu[m
+ pip install numpy pandas scipy matplotlib[m
+ python fit_curve.py[m
+ ```[m
+[41m+[m
