@@ -1,6 +1,6 @@
 # FlamApp AI — Research & Development / AI Assignment
 
-**Candidate:** Samhitha Gorantla
+**Candidate:** Gorantla Samhitha
 **GitHub:** [Samhi1881](https://github.com/Samhi1881)
 
 ## Problem
@@ -64,6 +64,7 @@ The residual shrinks roughly proportionally to the grid spacing, meaning it's pu
 - `fit_comparison.png` — visual overlay of data points and fitted curve
 
 ## Running it
+
 
 ```bash
 pip install numpy pandas scipy matplotlib
